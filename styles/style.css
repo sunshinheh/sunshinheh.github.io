@@ -1,3 +1,35 @@
 body{
-    background: purple;
+    background:rgb(175, 205, 250);
+}
+header{
+    font-family: 'roboto';
+    margin: auto;
+    border: white solid 1px;
+    padding: 10px;
+    display: flex;
+
+
+}
+a{
+    font-family: 'roboto';
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    justify-content: flex-end;
+    
+}
+div>img{
+    width: 50%;
+    display: flex;
+    align-items: center;
+ 
+}
+div{
+margin: 20px;
+
+}
+main{
+    background: white;
+    border: white solid;
+    margin: 0px;
 }
