@@ -4,13 +4,17 @@ body{
 }
 .bloc1{
     background: cadetblue;
-    height: 500px;
+    height: 100vh;
 }
 .bloc2{
     background: darkcyan;
-    height: 500px;
+    height: 100vh;
 }
 .bloc3{
     background: cornflowerblue;
-    height: 500px;
+    height: 100vh;
+}
+button{
+   margin-left: 50%;
+    margin-top: 98vh;
 }
