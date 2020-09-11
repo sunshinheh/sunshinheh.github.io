@@ -1,3 +1,16 @@
 body{
     background: black;
+    margin: 0;
+}
+.bloc1{
+    background: cadetblue;
+    height: 500px;
+}
+.bloc2{
+    background: darkcyan;
+    height: 500px;
+}
+.bloc3{
+    background: cornflowerblue;
+    height: 500px;
 }
